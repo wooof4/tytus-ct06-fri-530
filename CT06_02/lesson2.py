@@ -49,3 +49,4 @@ print ("your final score is " , finalscore2)
 num1=int(input("what number"))
 num2=int(input("what is your second number"))
 ans=num1+num2
+print(ans)
