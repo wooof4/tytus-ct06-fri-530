@@ -47,4 +47,5 @@ finalscore2 = finalscore/3
 print ("your final score is " , finalscore2)
 
 num1=int(input("what number"))
-num2=int(input())
+num2=int(input("what is your second number"))
+ans=num1+num2
