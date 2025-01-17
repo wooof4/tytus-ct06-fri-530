@@ -9,4 +9,4 @@ print("violet")
 #repeat 10 times :
 #  say "hey"  
 #  move 10 steps
-#set 
+#assign 0 to counter
