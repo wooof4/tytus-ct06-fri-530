@@ -16,6 +16,6 @@ print("violet")
 #turn a little bit to the left
 #increase counter by 10
 #say how old are you
-# if answer is 10 then
+# if answer is less than 10 then
 #say access denied
 #else say welcome
