@@ -12,5 +12,5 @@ print("violet")
 
 #assign 0 to counter
 #while counter is not 50
-#
-#
+#move 10 steps
+#turn
