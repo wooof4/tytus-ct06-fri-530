@@ -19,7 +19,7 @@ print("violet")
 # if answer is less than 10 then
 #say access denied
 #else say welcome
-#
+#if
 # 
 # 
 # 
