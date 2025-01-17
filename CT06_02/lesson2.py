@@ -25,6 +25,4 @@ print("violet")
 # if plastic
 # put in plastic bin
 # if paper
-# 
-# 
-# 
+# put in paper bin
