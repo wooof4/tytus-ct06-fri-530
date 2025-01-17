@@ -30,7 +30,7 @@ print("violet")
 #secret pharse is woooof
 #say what is the secret phrase
 # if secret pharse is wrong
-# say denied
+# say denied then exterminate the person
 # 
 # 
 # 
