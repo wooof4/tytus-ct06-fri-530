@@ -37,7 +37,7 @@ print("violet")
 #assign score 20 to test 1
 # assign score 40 to test 2
 # assign score 40 to test 3
-# add test 1 and 
+# add test 1, test 2
 # 
 # 
 # 
