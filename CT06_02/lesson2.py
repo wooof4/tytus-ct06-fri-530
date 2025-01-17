@@ -31,8 +31,8 @@ print("violet")
 #say what is the secret phrase
 # if secret pharse is wrong
 # say denied then exterminate the person
-# 
-# 
+# if secret pharse is correct
+# then 
 # 
 # 
 # 
