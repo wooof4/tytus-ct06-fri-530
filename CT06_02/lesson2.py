@@ -32,7 +32,7 @@ print("violet")
 # if secret pharse is wrong
 # say denied then exterminate the person
 #if secret pharse is correct
-# 
+# say 
 # 
 # 
 # 
