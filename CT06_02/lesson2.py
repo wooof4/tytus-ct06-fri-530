@@ -41,4 +41,4 @@ print("violet")
 # divide answer by 3
 test1 = int(input("what is your score"))
 test2 = int(input("what is your score"))
-test3 = int(input("what is your score"))
+test3 = int(input("what is your score for test 3"))
