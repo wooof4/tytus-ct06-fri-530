@@ -28,7 +28,7 @@ print("violet")
 # put in paper bin
 
 #
-# r
+# re
 #say what is the secret phrase
 # 
 # 
