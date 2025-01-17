@@ -15,3 +15,6 @@ print("violet")
 #move 10 steps
 #turn a little bit to the left
 #increase counter by 10
+#
+
+#
