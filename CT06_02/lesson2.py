@@ -40,5 +40,5 @@ print("violet")
 # add test 1, test 2 , test 3 equals answer
 # divide answer by 3
 test1 = int(input("what is your score"))
-test2 = int(input("what is your score"))
+test2 = int(input("what is your score test 2"))
 test3 = int(input("what is your score for test 3"))
