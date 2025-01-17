@@ -18,5 +18,4 @@ print("violet")
 #say how old are you
 # if answer is 10 then
 #say access denied
-#else
-# 
+#else say welcome
