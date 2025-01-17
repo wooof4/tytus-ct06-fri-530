@@ -37,7 +37,7 @@ print("violet")
 #say what is your test 1 score
 # say what is your test 2 score
 # say what is your test 3 score
-# add test 1, test 2 , test 3
+# add test 1, test 2 , test 3 
 # 
 # 
 # 
