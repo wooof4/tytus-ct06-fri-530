@@ -26,8 +26,8 @@ print("violet")
 # put in plastic bin
 # if paper
 # put in paper bin
-
-#sayb
+#
+#say what is the secret phrase
 # 
 # 
 # 
