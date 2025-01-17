@@ -6,6 +6,6 @@ print("green")
 print("blue")
 print("indigo")
 print("violet")
-#  repeat 10 times :
-# 
+#repeat 10 times :
+#    
 #
