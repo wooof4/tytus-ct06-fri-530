@@ -7,6 +7,5 @@ print("blue")
 print("indigo")
 print("violet")
 #repeat 10 times :
-#  say "hey"
-#   
-#
+#  say "hey"  
+#  move
