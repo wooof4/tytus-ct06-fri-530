@@ -3,5 +3,6 @@ print("red")
 print("orange")
 print("yellow")
 print("green")
-print("orange")
+print("blue")
+indig
 #
