@@ -20,7 +20,8 @@ print("violet")
 #say access denied
 #else say welcome
 #look at item
-# 
+# if glass
+
 # 
 # 
 # 
