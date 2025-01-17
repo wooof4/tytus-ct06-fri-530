@@ -14,4 +14,4 @@ print("violet")
 #while counter is not 50
 #move 10 steps
 #turn a little bit to the left
-#
+#increase counter by
