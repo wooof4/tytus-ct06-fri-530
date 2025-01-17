@@ -21,8 +21,7 @@ print("violet")
 #else say welcome
 #look at item
 # if glass
-
-# 
+# put in
 # 
 # 
 # 
