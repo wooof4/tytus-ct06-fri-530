@@ -40,3 +40,4 @@ print("violet")
 # add test 1, test 2 , test 3 equals answer
 # divide answer by 3
 
+test1 = 
