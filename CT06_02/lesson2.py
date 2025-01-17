@@ -6,4 +6,3 @@ print("green")
 print("blue")
 print("indigo")
 print("violet")
-a
