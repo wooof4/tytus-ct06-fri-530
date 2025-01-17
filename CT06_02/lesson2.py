@@ -42,5 +42,5 @@ print("violet")
 test1 = int(input("what is your score for test 1"))
 test2 = int(input("what is your score for test 2"))
 test3 = int(input("what is your score for test 3"))
-finalscore = test1+test2+test3/3
+finalscore = test1+test2+test3
 print ("your final score is " + finalscore)
