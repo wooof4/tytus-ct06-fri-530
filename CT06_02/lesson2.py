@@ -29,7 +29,7 @@ print("violet")
  
 #secret pharse is woooof
 #say what is the secret phrase
-# 
+# if secret pharse is wrong
 # 
 # 
 # 
