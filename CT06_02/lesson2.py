@@ -23,8 +23,8 @@ print("violet")
 # if glass
 # put in the glass bin
 # if plastic
-# 
-# 
+# put in plastic bin
+# if paper
 # 
 # 
 # 
