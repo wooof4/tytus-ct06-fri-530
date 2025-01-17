@@ -44,4 +44,4 @@ test2 = int(input("what is your score for test 2"))
 test3 = int(input("what is your score for test 3"))
 finalscore = test1+test2+test3
 finalscore2 = finalscore/3
-print ("your final score is " , + finalscore2)
+print ("your final score is " , finalscore2)
