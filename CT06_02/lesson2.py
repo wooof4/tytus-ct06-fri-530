@@ -8,4 +8,4 @@ print("indigo")
 print("violet")
 #repeat 10 times :
 #  say "hey"  
-#  move
+#  move 10 steps
