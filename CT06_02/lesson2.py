@@ -34,7 +34,7 @@ print("violet")
 #if secret pharse is correct
 # say welcome
 
-#
+#say what is your test score
 # 
 # 
 #assign score 20 to test 1
