@@ -35,7 +35,7 @@ print("violet")
 # say welcome
 
 #assign score 20 to test 1
-# assign score 40 to test 
+# assign score 40 to test 2
 # 
 # 
 # 
