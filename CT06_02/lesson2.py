@@ -11,5 +11,6 @@ print("violet")
 #  move 10 steps
 
 #assign 0 to counter
-#repeat tai
+#while counter is not 50
+
 #
