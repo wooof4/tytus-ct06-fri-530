@@ -34,7 +34,7 @@ print("violet")
 #if secret pharse is correct
 # say welcome
 
-#calculate final
+#assign score
 # 
 # 
 # 
