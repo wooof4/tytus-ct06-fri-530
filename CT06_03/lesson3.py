@@ -7,5 +7,7 @@ average = adam + brandon + charlie + daniel
 average2 = average/4
 print (average2)
 age = 12
+prin
 
-x
+x = 10
+x = 20
