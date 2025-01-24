@@ -41,3 +41,6 @@ f=3
 ams= d-e
 ans=ams*f
 print(ans)
+
+q=100
+z=4
