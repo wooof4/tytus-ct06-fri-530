@@ -6,8 +6,8 @@ print("Hello from lesson 3")
 #assign adam + brandon + charlie + daniel to average
 #assign average/4 to average2
 #print average2
-adam = (60)
-brandon = (58)
+adam = 60
+brandon = 58
 charlie= 98
 daniel = 79
 average = adam + brandon + charlie + daniel
