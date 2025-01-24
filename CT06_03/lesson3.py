@@ -3,7 +3,7 @@ print("Hello from lesson 3")
 #assign 58 to brandon
 #assign 98 to charlie
 #assign 79 to daniel
-#assign 
+#assign adam + brandon + charlie + daniel
 adam = (60)
 brandon = (58)
 charlie= (98)
