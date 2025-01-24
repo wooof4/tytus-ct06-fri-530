@@ -33,5 +33,8 @@ b=20
 c=a+b
 print(c)
 
+d
+
+
 ams= 50-10*3
 print(ams)
