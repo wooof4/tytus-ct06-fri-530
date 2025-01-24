@@ -45,3 +45,4 @@ print(ans)
 q=100
 z=4
 print (q/z)
+
