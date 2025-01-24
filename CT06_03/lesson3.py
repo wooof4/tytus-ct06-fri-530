@@ -35,8 +35,8 @@ print(c)
 
 d=50
 e=10
+f=3
 
 
-
-ams= 50-10*3
+ams= d-e
 print(ams)
