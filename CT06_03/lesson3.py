@@ -33,4 +33,5 @@ b=20
 c=a+b
 print(c)
 
-print(50-10*3)
+ams=50-10*3
+print(ams)
