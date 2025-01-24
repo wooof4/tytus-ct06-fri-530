@@ -1,10 +1,10 @@
 print("Hello from lesson 3")
 #assign 60 to adam
-#assign 58 to brandon
-#assign 98 to charlie
+#assign 58 to bo charlirandon
+#assign 98 te
 #assign 79 to daniel
 #assign adam + brandon + charlie + daniel to average
-#assign average/2 to average2
+#assign average/4 to average2
 #print average2
 adam = (60)
 brandon = (58)
