@@ -14,4 +14,6 @@ x = 10
 x = 20
 print (x)
 
-variable1 = 
+variable1 = 3
+variable = 5
+print (var)
