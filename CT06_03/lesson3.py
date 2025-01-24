@@ -49,5 +49,4 @@ z=4
 print (q/z)
 
 print ((3 + 4) * 5 - (10 / 2))
-
-a_
+day_allowance =15
