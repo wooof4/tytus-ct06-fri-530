@@ -39,5 +39,5 @@ f=3
 
 
 ams= d-e
-ans=ams*
-print(ams)
+ans=ams*f
+print(ans)
