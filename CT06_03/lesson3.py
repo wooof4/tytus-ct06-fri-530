@@ -1,5 +1,5 @@
 print("Hello from lesson 3")
-#assign 6
+#assign 60 to adam
 # 
 # 
 # 
