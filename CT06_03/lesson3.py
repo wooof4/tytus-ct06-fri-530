@@ -29,4 +29,5 @@ print (variable1*variable2)
 print (variable1/variable2)
 
 a=10
-b=
+b=20
+c=a+bprint
