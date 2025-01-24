@@ -3,7 +3,8 @@ print("Hello from lesson 3")
 #assign 58 to brandon
 #assign 98 to charlie
 #assign 79 to daniel
-#assign adam + brandon + charlie + daniel
+#assign adam + brandon + charlie + daniel to average
+#average2
 adam = (60)
 brandon = (58)
 charlie= (98)
