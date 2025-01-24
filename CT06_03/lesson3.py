@@ -30,4 +30,5 @@ print (variable1/variable2)
 
 a=10
 b=20
-c=a+bprint
+c=a+b
+print(c)
