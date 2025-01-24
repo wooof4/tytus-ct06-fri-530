@@ -39,4 +39,5 @@ f=3
 
 
 ams= d-e
+ans=ams*
 print(ams)
