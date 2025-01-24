@@ -1,8 +1,9 @@
 print("Hello from lesson 3")
 #assign 60 to adam
 #assign 58 to brandon
-#assign 98 to 
+#assign 98 to charlie
 #assign 79 to daniel
+
 adam = (60)
 brandon = (58)
 charlie= (98)
