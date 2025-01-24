@@ -52,3 +52,4 @@ print ((3 + 4) * 5 - (10 / 2))
 
 day_allowance =15
 a_week = day_allowance*5
+a_month = day_allowance*
