@@ -54,4 +54,4 @@ day_allowance =15
 a_week = day_allowance*5
 a_month = day_allowance*30
 a_year = a_month*12
-tenyears = a
+tenyears = a_year*
