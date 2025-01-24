@@ -3,4 +3,4 @@ adam = (60)
 brandon = (58)
 charlie= (98)
 daniel = (79)
-avera
+average = adam 
