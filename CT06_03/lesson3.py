@@ -6,3 +6,4 @@ daniel = (79)
 average = adam + brandon + charlie + daniel
 average2 = average/4
 print (average2)
+age = 13
