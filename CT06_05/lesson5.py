@@ -27,8 +27,11 @@
 #     print (i)
 # for i in range (18,30):
 #     print (i)\
-for i in range (2,26,2):
+# for i in range (2,26,2):
+#     print (i)
+for i in range (51,101):
     print (i)
+
 
 
 
