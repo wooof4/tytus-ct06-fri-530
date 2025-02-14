@@ -9,5 +9,6 @@
 
 # print ("outside the loop")
 #task 1
-name = ("whats ")
+name = input("whats ur name")
+
 
