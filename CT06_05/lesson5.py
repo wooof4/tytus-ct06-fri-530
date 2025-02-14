@@ -37,4 +37,4 @@
 
 print ("ready")
 for i in range(3,0,-1):
-    print (e)
+    print (i)
