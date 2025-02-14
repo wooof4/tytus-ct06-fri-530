@@ -15,5 +15,5 @@ for letter in name :
 print ((name) + " is ded")
 
 for i in range (100):
-    "i like chicken rice"
+    print ("i like chicken rice")
 
