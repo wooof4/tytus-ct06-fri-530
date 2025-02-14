@@ -12,5 +12,5 @@
 
 for name in input ("whats yout name") :
     print ("give me a " + str(name))
-    print ()
+    print ((name))
 
