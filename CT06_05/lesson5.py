@@ -38,5 +38,5 @@
 # print ("ready")
 # for i in range(3,0,-1):
 #     print (i)
-for i in range (10,101):
+for i in range (10,1,1):
     print (i)
