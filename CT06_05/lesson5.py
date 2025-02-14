@@ -52,5 +52,7 @@
 #     for e in range (start,stop+1):
 #         print (e)
 num=0
+for i in range (1,10):
+    num= num+i
     
 
