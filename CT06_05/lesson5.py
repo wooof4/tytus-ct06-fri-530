@@ -10,7 +10,7 @@
 # print ("outside the loop")
 #task 1
 
-for name in input ("whats yout name") :
+for letter in input ("whats yout name") :
     print ("give me a " + str(name))
     print ((name) + "is ded")
 
