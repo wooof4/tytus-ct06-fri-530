@@ -7,5 +7,5 @@ print ("before the loop")
 for i in range (3):
     print ("woof")
 
-("outside the loop")
+print ("outside the loop")
 
