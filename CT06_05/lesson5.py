@@ -46,5 +46,8 @@ stop = input (" what number")
 if start >stop:
     for i in range(start,stop,-1):
         print (i)
-if 
+else:
+    for e in range (start,stop):
+        print 
+    
 
