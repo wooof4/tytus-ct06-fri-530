@@ -43,9 +43,10 @@
 # print ("boo")
 start = input("what number")
 stop = input (" what number")
+start
 if start >stop:
     for i in range(start,stop,-1):
-        print (str(i))
+        print ((i))
 else:
     for e in range (start,stop):
         print (e)
