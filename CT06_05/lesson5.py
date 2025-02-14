@@ -46,7 +46,7 @@ stop = input (" what number")
 start = int(start)
 stop = int(stop)
 if start >stop:
-    for i in range(start,stop,-1):
+    for i in range(start,stop-1,-1):
         print ((i))
 else:
     for e in range (start,stop):
