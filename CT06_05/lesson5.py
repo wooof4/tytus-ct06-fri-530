@@ -29,7 +29,7 @@
 #     print (i)\
 # for i in range (2,26,2):
 #     print (i)
-for i in range (51,101):
+for i in range ():
     print (i)
 
 
