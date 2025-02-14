@@ -1,2 +1,2 @@
 print("Hello from lesson 5")
-print = input
+print = input("whats ur name")
