@@ -9,11 +9,5 @@
 
 # print ("outside the loop")
 #task 1
-name = input ("whats yout name")
-for letter in name :
-    print ("give me a " + str(letter))
-print ((name) + " is ded")
 
-for i in range (100):
-    print ("i like chicken rice")
 
