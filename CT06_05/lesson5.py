@@ -45,7 +45,7 @@ start = input("what number")
 stop = input (" what number")
 if start >stop:
     for i in range(start,stop,-1):
-        print (i)
+        print (str(i))
 else:
     for e in range (start,stop):
         print (e)
