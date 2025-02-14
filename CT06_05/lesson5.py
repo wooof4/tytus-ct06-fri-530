@@ -41,15 +41,16 @@
 # for i in range (10,0,-1):
 #     print(i)
 # print ("boo")
-start = input("what number")
-stop = input (" what number")
-start = int(start)
-stop = int(stop)
-if start >stop:
-    for i in range(start,stop-1,-1):
-        print ((i))
-else:
-    for e in range (start,stop+1):
-        print (e)
+# start = input("what number")
+# stop = input (" what number")
+# start = int(start)
+# stop = int(stop)
+# if start >stop:
+#     for i in range(start,stop-1,-1):
+#         print ((i))
+# else:
+#     for e in range (start,stop+1):
+#         print (e)
+num=0
     
 
