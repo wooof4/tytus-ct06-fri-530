@@ -11,6 +11,6 @@
 #task 1
 name = input ("whats yout name")
 for letter in name :
-    print ("give me a " + str(name))
+    print ("give me a " + str(letter))
     print ((name) + " is ded")
 
