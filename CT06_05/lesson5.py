@@ -12,5 +12,5 @@
 name = input("whats ur name")
 
 for name in range (5):
-    print
+    print ("give me a")
 
