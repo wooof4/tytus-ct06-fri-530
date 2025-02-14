@@ -8,5 +8,5 @@ for i in range (3):
     print ("woof")
 
 print ("outside the loop")
-
+#task 1
 
