@@ -38,6 +38,6 @@
 # print ("ready")
 # for i in range(3,0,-1):
 #     print (i)
-for i in range (10,1,1):
+for i in range (1,10,1):
     print(i)
 print ("boo")
