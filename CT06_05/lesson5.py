@@ -49,7 +49,7 @@ if start >stop:
     for i in range(start,stop-1,-1):
         print ((i))
 else:
-    for e in range (start,stop):
+    for e in range (start,stop+1):
         print (e)
     
 
