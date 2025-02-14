@@ -19,6 +19,7 @@
 # for i in range (100):
 #     print ("i like cake")
 #     print ("give")
-
+for i in range (0,59):
+    print (i)
 
 
