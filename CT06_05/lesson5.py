@@ -48,6 +48,6 @@ if start >stop:
         print (i)
 else:
     for e in range (start,stop):
-        print 
+        print (e)
     
 
