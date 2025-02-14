@@ -18,6 +18,6 @@
 #     print ("i like chicken rice")
 for i in range (100):
     print ("i like cake")
-    print 
+    print ("give me more")
 
 
