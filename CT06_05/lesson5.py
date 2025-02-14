@@ -32,5 +32,5 @@
 # for i in range (8,104,8):
 #     print (i)z
 # for i in range (51,101)
-for i in range (51,101):
-    print (i)
+# for i in range (5,0):
+#     print (i)
