@@ -34,5 +34,7 @@
 # for i in range (51,101)
 # for i in range (5,0,-1):
 #     print (i)\
-for i in range (1):
-    print ("ready")
+
+print ("ready")
+for i in range(3,0,-1):
+    print (e)
