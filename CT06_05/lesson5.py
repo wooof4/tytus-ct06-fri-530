@@ -9,8 +9,7 @@
 
 # print ("outside the loop")
 #task 1
-name = input("whats ur name")
 
-for name in range (5):
+for name in (5):
     print ("give me a" + str(name))
 
