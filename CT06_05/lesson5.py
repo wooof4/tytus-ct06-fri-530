@@ -32,7 +32,7 @@
 # for i in range (8,104,8):
 #     print (i)
 # for i in range (51,101):
-for i in range (51,101):
+for i in range (5,1,-1):
     print (i)
 
 
