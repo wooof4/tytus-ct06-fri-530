@@ -11,4 +11,6 @@
 #task 1
 name = input("whats ur name")
 
+for name in range (5):
+    print
 
