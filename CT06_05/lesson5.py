@@ -17,6 +17,7 @@
 # for i in range (100):
 #     print ("i like chicken rice")
 for i in range (100):
-    print
+    print ("i like cake")
+    print 
 
 
