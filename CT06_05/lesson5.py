@@ -14,3 +14,6 @@ for letter in name :
     print ("give me a " + str(letter))
 print ((name) + " is ded")
 
+for i in range (100):
+    
+
