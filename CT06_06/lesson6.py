@@ -1,4 +1,5 @@
 # print("Hello from lesson 6")
+
 # for i in range(3):
 #     print("Hello, World!")
 # for i in range(5):
@@ -18,4 +19,3 @@
 # print(int(age) + 1)
 # number = 10
 # print(number - 5)
-print("Repeat" * "3")
