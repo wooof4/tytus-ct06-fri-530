@@ -17,4 +17,4 @@
 # age = "25"
 # print(int(age) + 1)
 number = 10
-print(number - "5")
+print(int(number) - "5")
