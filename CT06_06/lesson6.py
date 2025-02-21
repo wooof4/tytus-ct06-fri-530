@@ -1,5 +1,6 @@
 # print("Hello from lesson 6")
-tot = input()
+tot = input("how many people r in ur class")
+
 # for i in range(3):
 #     print("Hello, World!")
 # for i in range(5):
