@@ -1,5 +1,6 @@
 # print("Hello from lesson 6")
 tot = input("how many people r in ur class")
+tot = int()
 for count in range (0,tot):
     mark = input("what is the mark of student " + str(count))
 
