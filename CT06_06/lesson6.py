@@ -1,6 +1,8 @@
 # print("Hello from lesson 6")
 tot = input("how many people r in ur class")
-count
+for count in range (0,tot):
+    mark = ()
+
 # for i in range(3):
 #     print("Hello, World!")
 # for i in range(5):
