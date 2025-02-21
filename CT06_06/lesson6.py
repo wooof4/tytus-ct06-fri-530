@@ -1,5 +1,5 @@
 # print("Hello from lesson 6")
-how amny
+tot = input()
 # for i in range(3):
 #     print("Hello, World!")
 # for i in range(5):
