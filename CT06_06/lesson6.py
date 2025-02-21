@@ -9,3 +9,5 @@
 # print ("Hello, World!")
 # age =13
 # print(age)
+# name = "Alice"
+# print(name)
