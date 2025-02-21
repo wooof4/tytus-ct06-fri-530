@@ -11,5 +11,5 @@
 # print(age)
 # name = "Alice"
 # print(name)
-x = 5
-print(x)
+# x = 5
+# print(x)
