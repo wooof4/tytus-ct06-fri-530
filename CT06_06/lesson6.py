@@ -1,6 +1,6 @@
 # print("Hello from lesson 6")
 tot = input("how many people r in ur class")
-
+count
 # for i in range(3):
 #     print("Hello, World!")
 # for i in range(5):
