@@ -7,3 +7,5 @@
 # t = 5
 # print (t)
 # print ("Hello, World!")
+age =13
+print(age)
