@@ -15,4 +15,4 @@
 # print(x)
 # print("Hello, World!")
 age = "25"
-print(age + 1)
+print(int(age) + 1)
